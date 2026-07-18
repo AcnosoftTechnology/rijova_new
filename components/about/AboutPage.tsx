@@ -4,6 +4,7 @@ import { AboutStory } from './sections/AboutStory';
 import { AboutValues } from './sections/AboutValues';
 import PageShell from '../shared/PageShell';
 
+
 export function AboutPage() {
   return (
      <PageShell>
