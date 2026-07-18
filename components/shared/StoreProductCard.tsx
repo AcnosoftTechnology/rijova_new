@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { ArrowRight, Heart, ShoppingCart, Star } from 'lucide-react'
+import { ArrowRight, Heart, ShoppingCart } from 'lucide-react'
 import { StoreProduct, formatPrice } from '@/components/store/store-data'
 
 export default function StoreProductCard({ product, compact = false }: { product: StoreProduct; compact?: boolean }) {
