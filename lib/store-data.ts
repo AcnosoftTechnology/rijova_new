@@ -135,8 +135,28 @@ export const orders: Order[] = [
 ];
 
 export const wishlistItems = [
-  { name: 'Hydro Whey Isolate', price: '₹3,999', badge: 'Best Seller' },
-  { name: 'Pre Workout Ignite', price: '₹1,899', badge: 'New Launch' },
-  { name: 'Daily Wellness Stack', price: '₹5,499', badge: 'Bundle Save 18%' },
-  { name: 'Plant Protein Blend', price: '₹2,799', badge: 'Vegan' },
+  {
+    name: 'Hydro Whey Isolate',
+    price: '₹3,999',
+    badge: 'Best Seller',
+    image: '/images/protein.png',
+  },
+  {
+    name: 'Pre Workout Ignite',
+    price: '₹1,899',
+    badge: 'New Launch',
+    image: '/images/protein.png',
+  },
+  {
+    name: 'Daily Wellness Stack',
+    price: '₹5,499',
+    badge: 'Bundle Save 18%',
+    image: '/images/protein.png',
+  },
+  {
+    name: 'Plant Protein Blend',
+    price: '₹2,799',
+    badge: 'Vegan',
+    image: '/images/protein.png',
+  },
 ];
