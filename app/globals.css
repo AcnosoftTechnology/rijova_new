@@ -754,6 +754,10 @@ h6 {
 
 .cart-page__checkout-btn{
  width:100%;
+
+}
+.category-page__secondary-btn{
+ margin: 20px 0;
 }
 .cart-page__continue-link{
   width:100%;
